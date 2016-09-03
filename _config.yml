@@ -1,15 +1,6 @@
-name: Uber Business Group
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/901ce121-f96f-4015-aefe-97972b3235f9.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f70a7a5c-cc41-43e3-be52-3b80a871b3c1.png
-layout_spectrum: 0.7684290467295796
-typography_spectrum: 0.28616087953560054
-opengraph:
-  type: ''
-  appId: ''
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/844619a8-b112-4dee-b2c3-d927dc551d34.png
+name: ubg
+layout_spectrum: 0.03917395116261713
+typography_spectrum: 0.34473965625443825
 color:
   brandColors:
     - '#E6E2AF'
@@ -17,14 +8,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-  brandStrength: 0.31251724204048514
-  lightness: 0.7288436251692474
-  saturation: 0.00012221257202327251
-  rhythmicContrast: 0.40145791810937226
-title: Uber Business Group
-author:
-  name: ''
-  url: ''
-  email: ''
-content_rating:
-  adult: false
+  brandStrength: 0.6354011349741032
+  lightness: 0.3434730720604817
+  saturation: 0.4919152229879551
+  rhythmicContrast: 0.12045386565440608
